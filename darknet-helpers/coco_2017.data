@@ -1,0 +1,7 @@
+classes= 80
+train  = ../darknet-helpers/train2017.txt
+valid  = ../darknet-helpers/val2017.txt 
+names = ../darknet-helpers/coco.names
+backup = cfg/yolov4_leaky/snapshots
+eval=coco
+
